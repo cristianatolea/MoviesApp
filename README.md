@@ -1,2 +1,2 @@
 # MoviesApp
-LALallaala
+MoviesApp is an application for Android. :)
